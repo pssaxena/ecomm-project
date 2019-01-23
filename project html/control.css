@@ -1,0 +1,74 @@
+.mmm
+{
+display:inline;
+text-align:right;
+border:2px,solid,pink;
+font-size:20px;
+background-color:white;
+text-decoration:none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+}
+li
+{
+display:inline;
+text-color:gray;
+}
+.ggg
+{
+text-align:left;
+border:2px,solid,pink;
+font-size:20px;
+}
+.iii
+{
+width:10px;
+height:10px;
+}
+.kkk
+{
+display:block;
+}
+.nnn
+{
+outline:2px,solid,orange;
+float:center;
+}
+header
+{
+    background-color: darkslategrey; 
+}
+.hhhh
+{
+    display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
